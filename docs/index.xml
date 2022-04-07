@@ -6,7 +6,16 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Jaime Romero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://jaimeromeroh.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jaimeromeroh.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi experiencia en LaunchX</title>
+      <link>https://jaimeromeroh.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaimeromeroh.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Durante estos meses en launchx he aprendido muchas cosas en tan poco tiempo como por ejemplo en el onboarding aprendi la importancia de usar github asi como algunas de sus funciones, en la parte de frontend aprendi a usar html, css y js asi como tambien a conocer la importancia de usar frameworks. Y ahora en la parte de backend espero seguir aprendiendo mas tecnologias de desarrollo.</description>
+    </item>
+    
     <item>
       <title>Mis expectativas</title>
       <link>https://jaimeromeroh.github.io/my_launchx_blog/posts/intro/</link>
